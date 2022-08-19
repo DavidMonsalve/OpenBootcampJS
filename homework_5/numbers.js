@@ -9,9 +9,9 @@ var aux = max + 1;
 
 var isItTrue = (max === aux);
 
-console.log(`my height in cm: ${myHeightInCm}`)
-console.log(`my height in M: ${myHeightInM}`)
-console.log(`my weight in KG: ${myWeightInKg}`)
+console.log(`my height in cm: ${myHeightInCm}`);
+console.log(`my height in M: ${myHeightInM}`);
+console.log(`my weight in KG: ${myWeightInKg}`);
 
 
 console.log(`height in meters rounded up: ${roundedHeightM}`);
