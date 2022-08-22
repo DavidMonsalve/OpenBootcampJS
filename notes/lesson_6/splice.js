@@ -1,8 +1,3 @@
-
-
-
-
-
 array = ["car", "house", "kids", "dogs", "toys"];
 console.log("original list", array);
 

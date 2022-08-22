@@ -1,4 +1,3 @@
-
 //concatenar arrays
 	//1er metodo
 	lista1 = ["a", "b", "c"];
