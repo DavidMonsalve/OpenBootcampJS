@@ -1,0 +1,6 @@
+names = new Set(["Rosa", "Daniela", "Mauricio", "David"])
+console.log(names)
+names.add("David")
+console.log(names)
+names.add("JavaScript")
+console.log(names)
