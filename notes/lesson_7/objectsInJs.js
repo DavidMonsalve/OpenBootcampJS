@@ -34,3 +34,21 @@ obj3.name = "Messi"
 console.log("Obj:   ", obj)
 console.log("Obj 2: ", obj2)
 console.log("Obj 3: ", obj3)
+
+
+
+//Como ordenar listas de objetos en funcion de una propiedad.
+
+const MovieList = [
+    { title: "Star Wars Episodie 3", release: 2005},
+    { title: "titanic", release: 1997},
+    { title: "Moana", release: 2016},
+    { title: "The Godfather", release: 1972},
+    { title: "TED", release: 2012}
+]
+
+console.log(MovieList)
+
+// .sort() changes the original array
+MovieList.sort((a, b) => a.release - b.release)
+console.log(MovieList)
