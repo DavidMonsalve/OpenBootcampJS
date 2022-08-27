@@ -26,4 +26,4 @@ Create a file called dates.js containing the following lines
 
 - A variable that contains the month of your birth (remember that January is month 0)
 
-- A variable containing the year of your birth (with 4 digits)
+- A variable containing the year of your birth (with 4 digits) 
